@@ -2,7 +2,7 @@
 
 > Results-driven MSc Data Science and AI student with a foundation in programming, machine learning, and data analysis. Passionate about leveraging responsible AI and innovative analytics to drive business value.
 
-- 🎓 I'm currently pursuing my **MSc in Data Science and AI** at Middlesex University Dubai (2025-2026) and hold a **BE in Information Technology** from MHSSCE, Mumbai (2021-2025).
+- 🎓 I'm currently pursuing my **MSc in Data Science and AI** at Middlesex University Dubai (2025-2026) and hold a **BE in Information Technology** from Mumbai University, India (2021-2025).
 - 🔭 I’m currently focused on projects involving end-to-end data pipelines, scalable analytics, and BI visualization.
 - 🌱 I’m always learning more about cloud services (AWS) and advanced machine learning techniques.
 - 📫 How to reach me: [farazz.ahmed003@gmail.com](mailto:farazz.ahmed003@gmail.com) or on [LinkedIn](https://linkedin.com/in/faraz-ahmed-siddiqui)
