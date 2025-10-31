@@ -23,14 +23,14 @@
 
 ### 🚀 My Portfolio Projects
 
-* **[Bank Mortgage Lead Identification](https://github.com/[Your_Username]/[your-bank-repo-name])**
+* **[Bank Mortgage Lead Identification](https://github.com/farazahmed18/Bank-Marketing-Prediction)**
     * A machine learning model to predict potential mortgage clients from a telemarketing dataset. Built using Scikit-learn and Pandas, achieving 79% F1-Score.
 
-* **[Sales Forecasting Dashboard](https://github.com/[Your_Username]/[your-sales-repo-name])**
+* **[Sales Forecasting Dashboard]**
     * Built an interactive Power BI dashboard to analyze sales trends and forecast performance.
     * Used Python for ETL processes and implemented time-series forecasting models to deliver actionable insights.
 
-* **[Electric Route Optimizer](https://github.com/[Your_Username]/[your-route-repo-name])**
+* **[Electric Route Optimizer]**
     * Developed a tool to find the most efficient routes for electric vehicles, minimizing energy consumption.
     * Utilized the A* algorithm for shortest path calculation on real-world data.
 
