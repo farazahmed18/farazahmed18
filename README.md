@@ -24,7 +24,11 @@
 ### 🚀 My Portfolio Projects
 
 * **[Bank Mortgage Lead Identification](https://github.com/farazahmed18/Bank-Marketing-Prediction)**
-    * A machine learning model to predict potential mortgage clients from a telemarketing dataset. Built using Scikit-learn and Pandas, achieving 79% F1-Score.
+    * A machine learning model using python to predict potential mortgage clients from a telemarketing dataset. Built using Scikit-learn and Pandas, achieving 79% F1-Score.
+ 
+* **[Airbnb Listing Prediction](https://github.com/farazahmed18/Airbnb-Listing-Prediction)**
+    * Developed a predictive classification model in R Studio to identify high-revenue Airbnb listings in London.
+    * Engineered leakage-free features (e.g., amenities_count) and compared Logistic Regression vs. Decision Tree algorithms, achieving 81.67% accuracy with the final  model.
 
 * **[Sales Forecasting Dashboard]**
     * Built an interactive Power BI dashboard to analyze sales trends and forecast performance.
