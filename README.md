@@ -30,10 +30,6 @@
     * Developed a predictive classification model in R Studio to identify high-revenue Airbnb listings in London.
     * Engineered leakage-free features (e.g., amenities_count) and compared Logistic Regression vs. Decision Tree algorithms, achieving 81.67% accuracy with the final  model.
 
-* **[Sales Forecasting Dashboard]**
-    * Built an interactive Power BI dashboard to analyze sales trends and forecast performance.
-    * Used Python for ETL processes and implemented time-series forecasting models to deliver actionable insights.
-
 * **[Electric Route Optimizer]**
     * Developed a tool to find the most efficient routes for electric vehicles, minimizing energy consumption.
     * Utilized the A* algorithm for shortest path calculation on real-world data.
