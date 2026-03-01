@@ -38,7 +38,7 @@
 * **Stack:** R Studio, Logistic Regression, Decision Trees.
 * **Key Result:** **81.67% accuracy** using custom engineered features like `amenities_count`.
 
-#### ⚡ [Electric Route Optimizer]
+#### [Electric Route Optimizer]
 * **Objective:** Find energy-efficient routes for EVs using the A* algorithm.
 * **Stack:** Python, Algorithmic Optimization.
 
@@ -55,6 +55,6 @@
 ### Connect with me
 - **Email:** [farazz.ahmed003@gmail.com](mailto:farazz.ahmed003@gmail.com)
 - **LinkedIn:** [faraz-ahmed-siddiqui](https://linkedin.com/in/faraz-ahmed-siddiqui)
-- **Location:** Dubai, United Arab Emirates 🇦🇪
+- **Location:** Dubai, United Arab Emirates
 
 ---
