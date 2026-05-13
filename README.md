@@ -25,6 +25,13 @@
 | **Tools** | Git, Excel, Jupyter, WordPress |
 
 ---
+### Freelance & Full-Stack Projects
+
+#### [Makaan Housing Corporate Website](https://makaan.ae)
+* **Objective:** Developed and deployed a production-ready web application for a premium student housing company.
+* **Stack:** React, Tailwind CSS, Vite, Web3Forms, Vercel.
+* **Key Result:** Managed end-to-end delivery including UI/UX development, custom DNS routing, and live deployment.
+---
 
 ### Featured Portfolio Projects
 
@@ -42,14 +49,6 @@
 * **Objective:** Classification model to identify high-revenue London listings.
 * **Stack:** R Studio, Logistic Regression, Decision Trees.
 * **Key Result:** **81.67% accuracy** using custom engineered features like `amenities_count`.
-
-
-### Freelance & Full-Stack Projects
-
-#### [Makaan Housing Corporate Website](https://makaan.ae)
-* **Objective:** Developed and deployed a production-ready web application for a premium student housing company.
-* **Stack:** React, Tailwind CSS, Vite, Web3Forms, Vercel.
-* **Key Result:** Managed end-to-end delivery including UI/UX development, custom DNS routing, and live deployment.
 
 ---
 
