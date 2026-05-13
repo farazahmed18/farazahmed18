@@ -44,10 +44,10 @@
 
 ### Freelance & Full-Stack Projects
 
-**Makaan Housing Corporate Website**
-* **Objective:** Developed and deployed a production-ready, interactive web application for a premium student housing company.
-* **Stack:** React, Tailwind CSS, Vite, Web3Forms API, Vercel.
-* **Key Result:** Managed end-to-end delivery including UI/UX translation, custom DNS routing, Google Workspace configuration, and live deployment.
+#### [Makaan Housing Corporate Website](https://makaan.ae)
+* **Objective:** Developed and deployed a production-ready web application for a premium student housing company.
+* **Stack:** React, Tailwind CSS, Vite, Web3Forms, Vercel.
+* **Key Result:** Managed end-to-end delivery including UI/UX development, custom DNS routing, and live deployment.
 
 ---
 
