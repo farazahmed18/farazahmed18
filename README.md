@@ -42,6 +42,13 @@
 * **Objective:** Find energy-efficient routes for EVs using the A* algorithm.
 * **Stack:** Python, Algorithmic Optimization.
 
+### Freelance & Full-Stack Projects
+
+**Makaan Housing Corporate Website**
+* **Objective:** Developed and deployed a production-ready, interactive web application for a premium student housing company.
+* **Stack:** React, Tailwind CSS, Vite, Web3Forms API, Vercel.
+* **Key Result:** Managed end-to-end delivery including UI/UX translation, custom DNS routing, Google Workspace configuration, and live deployment.
+
 ---
 
 ### Certifications
