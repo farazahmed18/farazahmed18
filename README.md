@@ -28,7 +28,7 @@
 
 ### Featured Portfolio Projects
 
-#### [UAE & GCC Logistics Copilot](#) *(Add your repo link here)*
+#### [UAE & GCC Logistics Copilot](https://github.com/farazahmed18/gcc-logistics-copilot)
 * **Objective:** Built an autonomous logistics quotation bot and technical RAG-based search tool to automate legacy data extraction workflows.
 * **Stack:** Azure OpenAI, Groq, LangChain, ChromaDB (Vector DB).
 * **Key Result:** Successfully deployed an intelligent multi-agent architecture for the GenAI Engineering Hackathon.
